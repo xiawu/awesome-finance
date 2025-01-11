@@ -18,6 +18,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Backtesting & Trading](#backtesting--trading)
 - [Reinforcement Learning Tools](#reinforcement-learning-tools)
 - [Trading Utilities](#trading-utilities)
+- [Financial Datasets](#financial-datasets)
 
 ## Trading & Investment Platforms
 - [Alpaca](https://alpaca.markets/) - Commission-free stock trading API for algorithmic trading
@@ -186,6 +187,14 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Portfolio simulation building blocks
   - Multi-core K-fold cross-validation
   - EOD stock data and alternative data streams
+
+## Financial Datasets
+- [Financial Datasets](https://www.financialdatasets.ai/) - A comprehensive platform offering a wide range of financial datasets, including:
+  - Stock market data
+  - Economic indicators
+  - Alternative data sources
+  - Historical financial data
+  - APIs for easy access to datasets
 
 ## Contributing
 Please read the [contribution guidelines](CONTRIBUTING.md) first. Feel free to contribute by submitting a pull request.
