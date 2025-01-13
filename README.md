@@ -19,6 +19,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Reinforcement Learning Tools](#reinforcement-learning-tools)
 - [Trading Utilities](#trading-utilities)
 - [Financial Datasets](#financial-datasets)
+- [Time Series Forecasting Models](#time-series-forecasting-models)
 
 ## Trading & Investment Platforms
 - [Alpaca](https://alpaca.markets/) - Commission-free stock trading API for algorithmic trading
@@ -195,6 +196,14 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Alternative data sources
   - Historical financial data
   - APIs for easy access to datasets
+
+## Time Series Forecasting Models
+- [TimesFM](https://huggingface.co/google/timesfm-2.0-500m-pytorch) - A pretrained time-series foundation model developed by Google Research for time-series forecasting, featuring:
+  - Univariate time series forecasting for context lengths up to 2048 time points
+  - Point forecasts with optional quantile heads
+  - Support for various frequency indicators
+  - Installation and usage instructions available on the Hugging Face page
+  - Pretraining data includes a variety of datasets for robust performance
 
 ## Contributing
 Please read the [contribution guidelines](CONTRIBUTING.md) first. Feel free to contribute by submitting a pull request.
