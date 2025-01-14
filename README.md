@@ -107,6 +107,19 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [OpenBB](https://openbb.co/) - Open source investment research platform with AI capabilities
 - [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform by Microsoft
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open source LLMs for financial applications
+- [FinCon](https://arxiv.org/abs/2407.06567) - A synthesized LLM multi-agent framework for financial decision making, featuring:
+  - Manager-analyst communication hierarchy for collaborative decision making
+  - Risk-control component with self-critiquing mechanism
+  - Conceptual verbal reinforcement for knowledge updates
+  - Applications in stock trading and portfolio management
+  - Strong generalization capabilities across various financial tasks
+- [Deep Learning for Crypto](https://arxiv.org/abs/2405.11431) - Comprehensive review and evaluation of deep learning models for cryptocurrency price prediction:
+  - Evaluation of LSTM variants, CNN variants, and Transformer models
+  - Comparison of univariate vs multivariate approaches
+  - Multi-step ahead prediction capabilities
+  - COVID-19 impact analysis on model performance
+  - Best performance achieved by convolutional LSTM with multivariate approach
+  - Implementation insights for different market conditions
 
 ## Currency & Exchange
 - [Fixer.io](https://fixer.io) - Foreign exchange rates and currency conversion API
