@@ -191,6 +191,13 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Comprehensive testing suite
   - Support for PyTorch and TensorFlow
   - Multi-task and meta-RL algorithms
+- [crypto-rl](https://github.com/sadighian/crypto-rl) - Deep Reinforcement Learning toolkit for cryptocurrencies featuring:
+  - Record and replay cryptocurrency limit order book data
+  - Train DDQN agents for trading
+  - Support for Coinbase Pro and Bitfinex exchanges
+  - Integration with Arctic Tick Store for data persistence
+  - Technical indicators with O(1) time complexity
+  - Extended OpenAI Gym environment for trading
 
 ## Trading Utilities
 - [algorithmic-trading-with-python](https://github.com/chrisconlan/algorithmic-trading-with-python) - Comprehensive collection of trading utilities including:
