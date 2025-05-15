@@ -36,6 +36,12 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) - Realtime and historical stock data
 - [SEC EDGAR Data](https://www.sec.gov/edgar/sec-api-documentation) - API to access annual reports of public US companies
 - [StockData](https://www.stockdata.org) - Real-Time, Intraday & Historical Market Data, News and Sentiment API
+- [Coinglass](https://www.coinglass.com/) - Cryptocurrency market data API featuring:
+  - Historical data with various time intervals (1min to 12h)
+  - Real-time whale monitoring
+  - Liquidation data and funding rates
+  - Multiple request rate tiers
+  - Support for major crypto exchanges
 
 ## Libraries & SDKs
 ### Python
