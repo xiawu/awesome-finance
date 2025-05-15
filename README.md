@@ -42,6 +42,12 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Liquidation data and funding rates
   - Multiple request rate tiers
   - Support for major crypto exchanges
+- [MacroMicro](https://en.macromicro.me/) - Financial data visualization platform featuring:
+  - Global macro data analysis
+  - Market sentiment indicators
+  - Cross-asset correlations
+  - Interactive charts and dashboards
+  - Economic indicators and market trends
 
 ## Libraries & SDKs
 ### Python
