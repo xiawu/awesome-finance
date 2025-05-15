@@ -113,6 +113,12 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [OpenBB](https://openbb.co/) - Open source investment research platform with AI capabilities
 - [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform by Microsoft
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open source LLMs for financial applications
+- [CryptoMamba](https://github.com/MShahabSepehri/CryptoMamba) - State Space Model-based architecture for cryptocurrency price prediction featuring:
+  - Novel Mamba-based architecture for time-series forecasting
+  - Two trading algorithms (Vanilla and Smart) for real-world performance
+  - Outperforms LSTM, Bi-LSTM, GRU, and S-Mamba baselines
+  - Support for multiple features and time resolutions
+  - Complete training and evaluation pipeline
 - [FinCon](https://arxiv.org/abs/2407.06567) - A synthesized LLM multi-agent framework for financial decision making, featuring:
   - Manager-analyst communication hierarchy for collaborative decision making
   - Risk-control component with self-critiquing mechanism
