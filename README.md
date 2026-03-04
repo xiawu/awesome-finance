@@ -26,6 +26,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Interactive Brokers](https://www.interactivebrokers.com/) - Professional trading platform with comprehensive API
 - [Robinhood](https://robinhood.com/) - Commission-free investing platform
 - [TD Ameritrade](https://www.tdameritrade.com/) - Trading platform with powerful APIs
+- [iGotFomo](https://igotfomo.com/) - AI-powered stock screener with convergence signals across 6,000+ stocks, options flow, backtesting, and free embeddable ticker widget
 
 ## Market Data
 - [Alpha Vantage](https://www.alphavantage.co/) - Free APIs for realtime and historical financial data
