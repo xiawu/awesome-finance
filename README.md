@@ -179,6 +179,8 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [VectorBT](https://vectorbt.dev/) - Fast backtesting and research platform
 - [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep reinforcement learning for trading
 - [Blankly](https://github.com/blankly-finance/blankly) - Unified interface for trading and backtesting
+- [Chartscout](https://chartscout.io) - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+
 
 ## Trading Frameworks
 - [TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - Open-source platform for quantitative trading empowered by reinforcement learning, featuring:
