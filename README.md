@@ -113,6 +113,9 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - "A Random Walk Down Wall Street" by Burton Malkiel
 - "Options, Futures, and Other Derivatives" by John C. Hull
 
+### Investment Frameworks
+- [Investment Principles Toolkit](https://github.com/henu-wang/investment-principles-toolkit) - Curated collection of investment principles, Python tools, and decision frameworks from Buffett, Munger, and more.
+
 ## AI & Machine Learning
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Educational proof-of-concept for an AI-powered hedge fund using multiple agents (valuation, sentiment, fundamentals, technical analysis, risk management)
 - [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep reinforcement learning framework for quantitative finance
