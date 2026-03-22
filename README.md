@@ -228,6 +228,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Portfolio simulation building blocks
   - Multi-core K-fold cross-validation
   - EOD stock data and alternative data streams
+  - [UltraTrader](https://ultratrader.app/) – Automated trading journal that syncs trades from brokers and exchanges (Binance, Bybit, MT4/MT5, and more), offering analytics on win rate, risk/reward, and strategy performance across Stocks, Forex, and Crypto.
 
 ## Financial Datasets
 - [Financial Datasets](https://www.financialdatasets.ai/) - A comprehensive platform offering a wide range of financial datasets, including:
