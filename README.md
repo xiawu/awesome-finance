@@ -108,6 +108,9 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Khan Academy - Finance](https://www.khanacademy.org/economics-finance-domain) - Free finance courses
 - [Wall Street Oasis](https://www.wallstreetoasis.com/) - Financial careers community
 
+### Investment Principles
+- [KeepRule](https://keeprule.com) - Free platform with curated investment principles from Warren Buffett, Charlie Munger, and other legendary investors. Offers scenario-based guidance and a public API.
+
 ### Books
 - "The Intelligent Investor" by Benjamin Graham
 - "A Random Walk Down Wall Street" by Burton Malkiel
