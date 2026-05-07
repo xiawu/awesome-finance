@@ -36,6 +36,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) - Realtime and historical stock data
 - [SEC EDGAR Data](https://www.sec.gov/edgar/sec-api-documentation) - API to access annual reports of public US companies
 - [StockData](https://www.stockdata.org) - Real-Time, Intraday & Historical Market Data, News and Sentiment API
+- [SEC Filing Microtools](https://sec-filing-fee-calculator.vercel.app/) - Open-source browser calculators for SEC filing fees, Schedule 13D/13G, Form D, and Section 16 deadline planning
 - [Coinglass](https://www.coinglass.com/) - Cryptocurrency market data API featuring:
   - Historical data with various time intervals (1min to 12h)
   - Real-time whale monitoring
