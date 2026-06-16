@@ -35,6 +35,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Marketstack](https://marketstack.com/) - Real-Time, Intraday & Historical Market Data API
 - [Financial Modeling Prep](https://site.financialmodelingprep.com/developer/docs) - Realtime and historical stock data
 - [SEC EDGAR Data](https://www.sec.gov/edgar/sec-api-documentation) - API to access annual reports of public US companies
+- [Insider Alerts](https://insideralerts.io) - SEC Form 4 insider buying and selling alerts, watchlists, and searchable insider activity for investors
 - [StockData](https://www.stockdata.org) - Real-Time, Intraday & Historical Market Data, News and Sentiment API
 - [SEC Filing Microtools](https://sec-filing-fee-calculator.vercel.app/) - Open-source browser calculators for SEC filing fees, Schedule 13D/13G, Form D, and Section 16 deadline planning
 - [Coinglass](https://www.coinglass.com/) - Cryptocurrency market data API featuring:
