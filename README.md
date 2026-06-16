@@ -92,6 +92,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [CryptoCompare](https://www.cryptocompare.com/) - Cryptocurrency market data
 
 ## Personal Finance
+- [Mini Tools UK Tax Calculator](https://mini-tools.uk/tax) - Estimates UK income tax and take-home pay with clear assumptions
 - [Mint](https://mint.intuit.com/) - Personal finance and budgeting tool
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting software
 - [Personal Capital](https://www.personalcapital.com/) - Investment and wealth management platform
