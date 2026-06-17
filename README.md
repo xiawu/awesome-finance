@@ -95,6 +95,11 @@ A curated list of awesome financial software, libraries, resources, and tools.
 
 ## Personal Finance
 - [Mini Tools UK Tax Calculator](https://mini-tools.uk/tax) - Estimates UK income tax and take-home pay with clear assumptions
+- [Mini Tools UK VAT Calculator](https://mini-tools.uk/vat) - Add or remove UK VAT with standard, reduced, zero-rated and custom VAT rates.
+- [Mini Tools UK Mortgage Calculator](https://mini-tools.uk/mortgage) - Estimate UK mortgage repayments, monthly payments, LTV, total interest and SDLT.
+- [Mini Tools IR35 Calculator](https://mini-tools.uk/ir35) - Compare inside IR35 umbrella take-home pay with outside IR35 limited company assumptions.
+- [Mini Tools Stamp Duty Calculator](https://mini-tools.uk/stamp-duty) - Estimate SDLT for England and Northern Ireland, including first-time buyer and additional property cases.
+- [Mini Tools UK Dividend Tax Calculator](https://mini-tools.uk/dividend) - Estimate UK dividend tax using salary, other income, dividend allowance and dividend tax bands.
 - [Mint](https://mint.intuit.com/) - Personal finance and budgeting tool
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting software
 - [Personal Capital](https://www.personalcapital.com/) - Investment and wealth management platform
