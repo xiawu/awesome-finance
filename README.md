@@ -95,6 +95,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [CryptoCompare](https://www.cryptocompare.com/) - Cryptocurrency market data
 
 ## Personal Finance
+- [Nutilz Debt Payoff Calculator](https://nutilz.com/debt-payoff-calculator) - Compare debt snowball vs avalanche payoff strategies side by side, free, no signup.
 - [Mini Tools UK Tax Calculator](https://mini-tools.uk/tax) - Estimates UK income tax and take-home pay with clear assumptions
 - [Mini Tools UK VAT Calculator](https://mini-tools.uk/vat) - Add or remove UK VAT with standard, reduced, zero-rated and custom VAT rates.
 - [Mini Tools UK Mortgage Calculator](https://mini-tools.uk/mortgage) - Estimate UK mortgage repayments, monthly payments, LTV, total interest and SDLT.
