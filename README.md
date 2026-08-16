@@ -253,6 +253,8 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Historical financial data
   - APIs for easy access to datasets
 
+- [VC Deal Flow Signal](https://signals.gitdealflow.com) - Open GitHub-derived alternative data for venture: startup commit velocity, contributor growth, and repo expansion across 350+ startups in 15 sectors. Free to use; open methodology; MCP server for programmatic access.
+
 ## Time Series Forecasting Models
 - [TimesFM](https://huggingface.co/google/timesfm-2.0-500m-pytorch) - A pretrained time-series foundation model developed by Google Research for time-series forecasting, featuring:
   - Univariate time series forecasting for context lengths up to 2048 time points
