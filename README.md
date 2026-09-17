@@ -105,6 +105,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting software
 - [Personal Capital](https://www.personalcapital.com/) - Investment and wealth management platform
 - [GnuCash](https://www.gnucash.org/) - Open-source accounting software
+- [Stock Average Calculator](https://stockavg.com/) - Free cost basis and average share price calculator that prints each line of the working. No signup.
 
 ## Risk Management
 - [OpenRisk](https://www.openriskmanagement.com/) - Open-source risk management tools
