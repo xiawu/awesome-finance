@@ -105,6 +105,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting software
 - [Personal Capital](https://www.personalcapital.com/) - Investment and wealth management platform
 - [GnuCash](https://www.gnucash.org/) - Open-source accounting software
+- [IndepAI Coast FIRE Calculator](https://indepai.app/tools/coast-fire-calculator) - Free Coast and Barista FIRE calculator that layers cost-of-living data across thousands of cities to show where your money buys an earlier retirement.
 
 ## Risk Management
 - [OpenRisk](https://www.openriskmanagement.com/) - Open-source risk management tools
