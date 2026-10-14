@@ -38,6 +38,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Insider Alerts](https://insideralerts.io) - SEC Form 4 insider buying and selling alerts, watchlists, and searchable insider activity for investors
 - [SwiftAlerts](https://swiftalerts.trade) - Trading intelligence alerts for analyst sentiment, options flow, valuations, and market microstructure
 - [StockData](https://www.stockdata.org) - Real-Time, Intraday & Historical Market Data, News and Sentiment API
+- [roic.ai](https://www.roic.ai/) - Fundamentals, financial ratios and earnings call transcripts API for 68k+ companies, with an MCP server
 - [SEC Filing Microtools](https://sec-filing-fee-calculator.vercel.app/) - Open-source browser calculators for SEC filing fees, Schedule 13D/13G, Form D, and Section 16 deadline planning
 - [Coinglass](https://www.coinglass.com/) - Cryptocurrency market data API featuring:
   - Historical data with various time intervals (1min to 12h)
