@@ -188,6 +188,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 ## Backtesting & Trading
 - [Zipline](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library
 - [Backtrader](https://www.backtrader.com/) - Python backtesting library for trading strategies
+- [OpenBacktesting](https://github.com/lucidcog/openbacktesting) - Single-asset historical backtesting with pandas statistics, technical indicators, and parameter optimization
 - [QSTrader](https://github.com/mhallsmoore/qstrader) - Backtesting simulation engine
 - [bt](https://github.com/pmorissette/bt) - Flexible backtesting for Python
 - [PyAlgoTrade](https://github.com/gbeced/pyalgotrade) - Algorithmic trading library
