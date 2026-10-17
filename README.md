@@ -116,6 +116,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Investopedia](https://www.investopedia.com/) - Financial education website
 - [Khan Academy - Finance](https://www.khanacademy.org/economics-finance-domain) - Free finance courses
 - [Wall Street Oasis](https://www.wallstreetoasis.com/) - Financial careers community
+- [DisconfirmAI — NVIDIA capacity-obligations case](https://disconfirmai.com/en/topics/nvidia-capacity-obligations) - Public research case organizing questions and primary-source links about a contingent capacity-purchase obligation.
 
 ### Investment Principles
 - [KeepRule](https://keeprule.com) - Free platform with curated investment principles from Warren Buffett, Charlie Munger, and other legendary investors. Offers scenario-based guidance and a public API.
