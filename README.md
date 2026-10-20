@@ -39,6 +39,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [SwiftAlerts](https://swiftalerts.trade) - Trading intelligence alerts for analyst sentiment, options flow, valuations, and market microstructure
 - [StockData](https://www.stockdata.org) - Real-Time, Intraday & Historical Market Data, News and Sentiment API
 - [SEC Filing Microtools](https://sec-filing-fee-calculator.vercel.app/) - Open-source browser calculators for SEC filing fees, Schedule 13D/13G, Form D, and Section 16 deadline planning
+- [OQRO](https://oqro.io) - SEC Form 4/144, 13F, Congress trade and federal-contract filings explained in plain words and compared with each company's own filing history
 - [Coinglass](https://www.coinglass.com/) - Cryptocurrency market data API featuring:
   - Historical data with various time intervals (1min to 12h)
   - Real-time whale monitoring
