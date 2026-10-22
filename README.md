@@ -28,6 +28,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [TD Ameritrade](https://www.tdameritrade.com/) - Trading platform with powerful APIs
 
 ## Market Data
+- [SiftingIO](https://sifting.io/) - Real-time and historical market data for US stocks, forex, crypto and commodities through REST and WebSocket APIs, with a free plan.
 - [Alpha Vantage](https://www.alphavantage.co/) - Free APIs for realtime and historical financial data
 - [Yahoo Finance](https://finance.yahoo.com/) - Financial news and data platform
 - [IEX Cloud](https://iexcloud.io/) - Financial data infrastructure
