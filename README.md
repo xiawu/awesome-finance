@@ -95,6 +95,8 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [CryptoCompare](https://www.cryptocompare.com/) - Cryptocurrency market data
 
 ## Personal Finance
+
+- [Best Credit Card Rewards](https://bestcreditcardrewards.net/) - Free tool for finding cash back cards that fit your spending, comparing estimated annual rewards and potential gains over a flat rate card with visible calculations; no signup or affiliate commissions, and spending inputs stay in your browser.
 - [Mini Tools UK Tax Calculator](https://mini-tools.uk/tax) - Estimates UK income tax and take-home pay with clear assumptions
 - [Mini Tools UK VAT Calculator](https://mini-tools.uk/vat) - Add or remove UK VAT with standard, reduced, zero-rated and custom VAT rates.
 - [Mini Tools UK Mortgage Calculator](https://mini-tools.uk/mortgage) - Estimate UK mortgage repayments, monthly payments, LTV, total interest and SDLT.
