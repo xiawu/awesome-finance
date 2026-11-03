@@ -105,6 +105,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [YNAB](https://www.ynab.com/) - Zero-based budgeting software
 - [Personal Capital](https://www.personalcapital.com/) - Investment and wealth management platform
 - [GnuCash](https://www.gnucash.org/) - Open-source accounting software
+- [NeedTheseApps](https://needtheseapps.com/) - Free, plain-English calculators for savings growth, retirement withdrawals, debt payoff, budgets, and life expectancy. No sign-up.
 
 ## Risk Management
 - [OpenRisk](https://www.openriskmanagement.com/) - Open-source risk management tools
