@@ -51,6 +51,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Cross-asset correlations
   - Interactive charts and dashboards
   - Economic indicators and market trends
+- [Perfect Clock Markets](https://perfectclock.cc/markets) - Free calendars of market-moving times in your time zone: stock exchange trading hours, forex sessions, FOMC, CPI, and jobs report release times, central bank rate decisions (Fed, ECB, BoE, BoJ and others), earnings dates of the largest US companies before the open or after the close, and options expirations
 
 ## Libraries & SDKs
 ### Python
