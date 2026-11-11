@@ -51,6 +51,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - Cross-asset correlations
   - Interactive charts and dashboards
   - Economic indicators and market trends
+  - - [StockYears](https://stockyears.com/) - Annual financials, 10-K report lists and insider transactions for S&P 500 companies. Freemium.
 
 ## Libraries & SDKs
 ### Python
