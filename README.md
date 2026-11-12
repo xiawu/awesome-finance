@@ -113,6 +113,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 
 ## Educational Resources
 ### Websites
+- [Brokeli](https://brokeli.com) - Independent, source-backed forex and CFD broker research, with fee calculators and scores by country availability
 - [Investopedia](https://www.investopedia.com/) - Financial education website
 - [Khan Academy - Finance](https://www.khanacademy.org/economics-finance-domain) - Free finance courses
 - [Wall Street Oasis](https://www.wallstreetoasis.com/) - Financial careers community
