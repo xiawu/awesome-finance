@@ -160,6 +160,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [ExchangeRate-API](https://www.exchangerate-api.com) - Free currency conversion
 - [Frankfurter](https://www.frankfurter.app/docs) - Exchange rates, currency conversion and time series
 - [VATComply.com](https://www.vatcomply.com/documentation) - Exchange rates, geolocation and VAT number validation
+- [Crystal Ball Markets Rates API](https://crystalballmarkets.com/markets/rates-api) - Free JSON exchange rates for 60 currencies, gold prices in 69 countries and live market quotes, no sign-up
 
 ## Banking & Payments
 - [Plaid](https://plaid.com/docs) - Connect with user's bank accounts and access transaction data
