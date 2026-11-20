@@ -132,6 +132,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [AI Hedge Fund](https://github.com/virattt/ai-hedge-fund) - Educational proof-of-concept for an AI-powered hedge fund using multiple agents (valuation, sentiment, fundamentals, technical analysis, risk management)
 - [FinRL](https://github.com/AI4Finance-Foundation/FinRL) - Deep reinforcement learning framework for quantitative finance
 - [OpenBB](https://openbb.co/) - Open source investment research platform with AI capabilities
+- [DDScore](https://www.ddscore.ai/) - AI-assisted first-pass due diligence for private companies, with source cross-checks, evidence-linked findings, and follow-up questions
 - [Qlib](https://github.com/microsoft/qlib) - AI-oriented quantitative investment platform by Microsoft
 - [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Open source LLMs for financial applications
 - [CryptoMamba](https://github.com/MShahabSepehri/CryptoMamba) - State Space Model-based architecture for cryptocurrency price prediction featuring:
