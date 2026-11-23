@@ -116,6 +116,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Investopedia](https://www.investopedia.com/) - Financial education website
 - [Khan Academy - Finance](https://www.khanacademy.org/economics-finance-domain) - Free finance courses
 - [Wall Street Oasis](https://www.wallstreetoasis.com/) - Financial careers community
+- [eStockes Academy](https://estockes.com/education/tracks) - Free lessons on reading stock charts, understanding order execution, and evaluating historical trading rules.
 
 ### Investment Principles
 - [KeepRule](https://keeprule.com) - Free platform with curated investment principles from Warren Buffett, Charlie Munger, and other legendary investors. Offers scenario-based guidance and a public API.
