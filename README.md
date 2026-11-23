@@ -246,6 +246,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
   - [UltraTrader](https://ultratrader.app/) – Automated trading journal that syncs trades from brokers and exchanges (Binance, Bybit, MT4/MT5, and more), offering analytics on win rate, risk/reward, and strategy performance across Stocks, Forex, and Crypto.
 
 ## Financial Datasets
+- [Builders in Fintech](https://buildersinfintech.ai) - Free fintech funding database: rounds, investors, licences and a weekly Funding Index, each record linked to its source; CC BY 4.0, with an MCP connector for AI assistants
 - [Financial Datasets](https://www.financialdatasets.ai/) - A comprehensive platform offering a wide range of financial datasets, including:
   - Stock market data
   - Economic indicators
