@@ -106,6 +106,7 @@ A curated list of awesome financial software, libraries, resources, and tools.
 - [Personal Capital](https://www.personalcapital.com/) - Investment and wealth management platform
 - [GnuCash](https://www.gnucash.org/) - Open-source accounting software
 
+- [PayCalcUSA](https://paycalcusa.com) — Free paycheck calculator for all 50 US states; see take-home pay after tax, plus salary-to-hourly and overtime converters.
 ## Risk Management
 - [OpenRisk](https://www.openriskmanagement.com/) - Open-source risk management tools
 - [Risk-API](https://www.risk-api.io/) - Risk management API
